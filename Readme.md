@@ -2,7 +2,8 @@
 # *Millie Whatsapp Bot*
 <div align="center">
   
-  [![Millie Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+MILLIE+WHATSAPP+BOT)](https://github.com/Neeraj-x0/Millie)
+  [![Millie Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+MILLIE+WHATSAPP+BOT)](https://github.com/N
+Kphillar/Millie)
 </div>
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/Pf1Wynm.png" width="200" height="200"/>
